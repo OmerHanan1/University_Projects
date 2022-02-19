@@ -1,7 +1,7 @@
 # University Projects:
 University Projects from key courses
 
-### C project- Pokemon's 
+### C project- Pokemon's (first & second)
 (Procedural programming, Modular architecture)
 
 Advanced programming --- 1nd semester, 2nd year
