@@ -1,17 +1,26 @@
 
-# Pokemon project - part 2
- Python project - Introduction to computer science course
+# Pokemon's Project - part 2
+ C project - Advanced programming course
 
-This project was done as part of the “Introduction to computer science (in Python programming language)”.
-the aim of the project is to perform derivatives and integrals for defined polynomials and to represent the results in an accurate mathematical way to the user.
-The main themes of this project are operator overriding, object-oriented programming.
-This project is including 4 classes:
-Monom: this class is the most basic part of the code, each Monom instance carries (Power, coefficient).
+This project was done as part of the “Advanced programming course”.
+the aim of the project is to create and use structs, pointers (include function pointers to data-sigment), memory allocations, 
+building generic ADT's such as: maximum heap, linked list.
+This project is about building generic abstract data types in C programming lang.
+this project including modules such as:
 
-Polynomial: a chain of Monoms connecting together representing a mathematical polynomial.
+Defs.h: definitions header.
 
-Note: Monom class and polynomial class supporting compare functions.
+Pokemon.h/ Pokemon.c: pokemon module header and source files.
 
-Binary tree node: holed a polynomial.
+MaxHeap.h/ MaxHeap.c: generic maximum heap header and source files.
 
-Polynomial Binary tree: a Binary search tree of polynomials, since all the polynomials have comparison functions, an insertion to this binary tree will keep it sorted.
+LinkedList.h/ LinkedList.c: genericLinked list header and source files.
+
+BattleByCategory.h/.c: generic ADT that can generates fights between struct objects that support the requirements (such as Pokemons module).
+
+MainSeconf.c: the main file for this project (second). this file includes 3 main functions:
+  1. Pokedex builder - initializing the data structures from the given text file.
+  2. Main - related menu.
+  3. Deletion - deleting all memory allocations to prevent memory leaks.
+
+### The code was checked with Valgrind memory leaks checker - memory leaks free code.
