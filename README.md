@@ -17,6 +17,6 @@ Advanced programming --- 1nd semester, 2nd year
 Introduction to computer sceince --- 1st semester, 1st year
 
 ### Java project- Data structures implementations
-(Hash table, AVL tree, Suffix tree, etc.)
+(Hash table (open/closed hashing methods), AVL tree, Linkedlist, etc.)
 
 Data structures & algorithms --- 2nd semester, 1st year
