@@ -1,5 +1,5 @@
 
-# Polynomials_derivative
+# Pokemon project - part 2
  Python project - Introduction to computer science course
 
 This project was done as part of the “Introduction to computer science (in Python programming language)”.
