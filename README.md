@@ -1,4 +1,4 @@
-# University_Projects
+## University_Projects
 University Projects from key courses
 
 # Python project- Polynomials derivatives and integrals 
