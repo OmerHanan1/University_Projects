@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C_SECOND_PROJECT"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_SECOND_PROJECT">
+				<Option output="/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/C_SECOND_PROJECT" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_SECOND_PROJECT"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_SECOND_PROJECT/fast">
+				<Option output="/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/C_SECOND_PROJECT" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_SECOND_PROJECT/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/ise/Desktop/C_SECOND_PROJECT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ise/Desktop/C_SECOND_PROJECT/BattleByCategory.c">
+			<Option target="C_SECOND_PROJECT"/>
+		</Unit>
+		<Unit filename="/home/ise/Desktop/C_SECOND_PROJECT/BattleByCategory.h">
+			<Option target="C_SECOND_PROJECT"/>
+		</Unit>
+		<Unit filename="/home/ise/Desktop/C_SECOND_PROJECT/Defs.h">
+			<Option target="C_SECOND_PROJECT"/>
+		</Unit>
+		<Unit filename="/home/ise/Desktop/C_SECOND_PROJECT/LinkedList.c">
+			<Option target="C_SECOND_PROJECT"/>
+		</Unit>
+		<Unit filename="/home/ise/Desktop/C_SECOND_PROJECT/LinkedList.h">
+			<Option target="C_SECOND_PROJECT"/>
+		</Unit>
+		<Unit filename="/home/ise/Desktop/C_SECOND_PROJECT/MainSecond.c">
+			<Option target="C_SECOND_PROJECT"/>
+		</Unit>
+		<Unit filename="/home/ise/Desktop/C_SECOND_PROJECT/MaxHeap.c">
+			<Option target="C_SECOND_PROJECT"/>
+		</Unit>
+		<Unit filename="/home/ise/Desktop/C_SECOND_PROJECT/MaxHeap.h">
+			<Option target="C_SECOND_PROJECT"/>
+		</Unit>
+		<Unit filename="/home/ise/Desktop/C_SECOND_PROJECT/Pokemon.c">
+			<Option target="C_SECOND_PROJECT"/>
+		</Unit>
+		<Unit filename="/home/ise/Desktop/C_SECOND_PROJECT/Pokemon.h">
+			<Option target="C_SECOND_PROJECT"/>
+		</Unit>
+		<Unit filename="/home/ise/Desktop/C_SECOND_PROJECT/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

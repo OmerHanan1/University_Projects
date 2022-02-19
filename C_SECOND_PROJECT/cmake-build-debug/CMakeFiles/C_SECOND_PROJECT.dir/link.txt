@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/C_SECOND_PROJECT.dir/MainSecond.c.o CMakeFiles/C_SECOND_PROJECT.dir/LinkedList.c.o CMakeFiles/C_SECOND_PROJECT.dir/MaxHeap.c.o CMakeFiles/C_SECOND_PROJECT.dir/BattleByCategory.c.o CMakeFiles/C_SECOND_PROJECT.dir/Pokemon.c.o -o C_SECOND_PROJECT 
