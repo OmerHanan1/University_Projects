@@ -1,5 +1,18 @@
 # University_Projects
 University Projects from key courses
-------------------------------
-# (1) Python project-Polynomials derivatives and integrals (polynomials Binary search tree). 
-(as part of Introduction to computer sceince course 1st semester, 1st year)
+
+# Python project- Polynomials derivatives and integrals 
+(polynomials Binary search tree). 
+Introduction to computer sceince --- 1st semester, 1st year
+
+# Java project- Data structures implementations
+(Hash table, AVL tree, Suffix tree, etc.)
+Data structures & algorithms --- 2nd semester, 1st year
+
+# C project- Pokemon's 
+(Procedural programming, Modular architecture(
+Advanced programming --- 1nd semester, 2nd year
+
+# C++ project- Animal farms
+(Object oriented programming, Polymorphism)
+Advanced programming --- 1nd semester, 2nd year
