@@ -1,0 +1,5 @@
+Morty X=80 Y=197
+Summer X=168 Y=223
+Jerry X=330 Y=236
+Rick X=480 Y=251
+Beth X=580 Y=243
